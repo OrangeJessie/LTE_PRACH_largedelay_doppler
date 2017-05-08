@@ -1,0 +1,2 @@
+# LTE_PRACH_largedelay_doppler
+航空场景（超大小区半径200km，多普勒频移）LTE上行随机接入前导的检测
